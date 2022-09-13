@@ -15,7 +15,14 @@
     background-color:rgb(400, 240, 160);
     border: 1px double black;
     border-radius:  25px; ;
+  
   }
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
   .p{
     color:red;
   }
